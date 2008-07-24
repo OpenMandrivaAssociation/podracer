@@ -1,6 +1,6 @@
 %define name	podracer
 %define version	1.4
-%define release %mkrel 1
+%define release %mkrel 3
 
 Name: 	 	%{name}
 Summary: 	A versatile podcast fetcher
