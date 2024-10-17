@@ -8,7 +8,7 @@ Version: 	%{version}
 Release: 	%{release}
 
 Source:		http://prdownloads.sourceforge.net/podracer/%{name}-%{version}.tar.bz2
-URL:		http://podracer.sourceforge.net/
+URL:		https://podracer.sourceforge.net/
 License:	BSD
 Group:		Networking/News
 BuildRoot:	%{_tmppath}/%{name}-buildroot
